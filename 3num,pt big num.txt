@@ -1,0 +1,17 @@
+To accept a Three numbers and print big number
+
+begin
+number num1,num2,num3
+
+print("enter num 1 and num2 and num3 values")
+input num1,num2,num3
+if (num1 > num2 && num1 >num3)
+{
+print("is the big number"num1)
+}
+  else(n2 >n3){
+print("is the big number"num2)
+}
+else 
+print("is the  big number"num 3)
+end
