@@ -1,0 +1,21 @@
+8.to accept a number and che k it is +ve or -ve or zero
+
+begin
+
+
+nimber num1
+print("enter number to check the given number is +ve or -ve or zero");
+input num1;
+
+if num1<0;
+{
+ print("-ve number")
+}
+
+else{
+print("zero")
+}
+else{
+print("ve number");
+
+} end 
