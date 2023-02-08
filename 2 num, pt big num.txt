@@ -1,0 +1,13 @@
+to accept a two number and print big number
+begin 
+number num1,num2
+
+print("enter num 1 and num2 values")
+input num1,num2
+if num1>num2{
+print("num1,"is big number")
+}
+else 
+{
+print(num2,"is big number")
+end
