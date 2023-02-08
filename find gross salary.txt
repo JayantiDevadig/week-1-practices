@@ -1,0 +1,9 @@
+write a algorithm to read basic salary and find gross salary
+1)start
+2)read basic salary
+3)calculate 
+ Hra= basic salary*78/100
+ Da=basic salary*96/100
+4)calculate gross salary
+ gross salary=Basic salary+Hra+Da
+5)stop
