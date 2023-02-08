@@ -1,0 +1,17 @@
+accept basic sal and find gross sal
+gs=basic+hra+da
+hra is 67% on basic
+da is 89% on basic
+
+ans:
+
+Begin
+ number basic sal ,hra,da
+number gross
+ print("enter basic sal score")
+input basic
+hra=(basic*67)/100
+da=(basic*89)/100
+  gross =basic+hra+da
+ print("total gross:",gross)
+end
