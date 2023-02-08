@@ -1,0 +1,33 @@
+11 to accept withdraw amount and print number  of notes
+(500,200,100)
+
+begin
+ int withdraw amount
+print ("500,200,100")
+print(" enter the amount")
+
+ if amount%100 != 0
+   {
+  print("invalid amount")
+   }
+if(amt>=500)
+{
+a=amt/500
+amt=amt%500
+print(" total number of 500 notes",500)
+}
+if(amt>=200)
+{
+b=amt/200
+amt=amt%200
+print(" total number of 200 notes",200)
+}
+
+if(amt>=100)
+{
+c=amt/100
+amt=amt%100
+print(" total number of 100 notes",100)
+}
+}
+end
