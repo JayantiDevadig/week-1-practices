@@ -1,0 +1,40 @@
+12. To accept project marks, internal and external score and check student got pass in 3 subjects (project,internal and external) , pass marks: 50/100
+        calculate total score if student got pass in 3 subjects.
+           70% from project
+           20% from externals
+           10% from internals
+         print grade based on total score:
+                90+    --> A
+                70-- 90   --> B
+                50--70    --> C
+ 
+          print failed subject name along with score.
+
+
+
+begin
+number sub1,sub2,sub3
+print("enter the sub1,sub2,sub3 marks")
+input sub1
+input sub2
+input sub3
+total=sub1+sub2+sub3
+print("total marks:",marks)
+
+if (marks>=90) 
+{
+	print(" student got A grade"); 
+}
+	else if total<90&& total>70
+{)
+		printf("student got B grade");
+		}
+	else ( num >=50){
+		print(" student got C grade");
+		}
+	else
+		printf("  Failed in this exam");
+		}
+end
+
+
