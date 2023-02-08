@@ -1,0 +1,19 @@
+to acceot two number and addition substraction division and multiple
+
+
+begin
+ number a,b
+number add,sub,mul div
+print("enter number a")
+input a
+print ("entr numbwer b")
+input b
+add=a+b
+sub=a-b
+mul=a*b
+div=a/b
+ printf("Addition:",add)
+ printf("Subtraction: sub);
+    printf("Multiplication:",mul);
+    printf("Division:",div z);
+end
