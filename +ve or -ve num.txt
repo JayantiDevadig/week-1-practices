@@ -1,0 +1,15 @@
+to accept a number and check it is +ve num or -ve num
+
+
+begin
+number num1
+print("enter number to check +ve num or -ve num")
+if num1<0
+{
+print(num1,"is -ve number");
+}
+else {
+print(num1,"is 
++ve number)
+}
+end
